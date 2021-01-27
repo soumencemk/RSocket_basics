@@ -1,4 +1,4 @@
-# RSocket Basics
+# RSocket Basics ![Java CI with Maven](https://github.com/soumencemk/RSocket_basics/workflows/Java%20CI%20with%20Maven/badge.svg)
 
 **RSocket** is a binary protocol for use on byte stream transports such as TCP, WebSockets, and Aeron.
 
